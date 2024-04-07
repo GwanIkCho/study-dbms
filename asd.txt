@@ -1,0 +1,11 @@
+#    1. from
+#    2. join
+#    3. on
+#    4. where
+#    5. select
+#    6. order by
+#    7. select
+#    8. order by
+
+
+
